@@ -25,7 +25,7 @@ export const Feedback = () => {
         break;
 
       default:
-        alert('unknown type');
+        return;
     }
   };
 
